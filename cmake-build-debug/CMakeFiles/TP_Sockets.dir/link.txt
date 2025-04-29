@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\TP_Sockets.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\TP_Sockets.dir/objects.a @CMakeFiles\TP_Sockets.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\TP_Sockets.dir/objects.a -Wl,--no-whole-archive -o TP_Sockets.exe -Wl,--out-implib,libTP_Sockets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TP_Sockets.dir\linkLibs.rsp

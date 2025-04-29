@@ -1,0 +1,3 @@
+C:/Users/ayaga/CLionProjects/TP_Sockets/cmake-build-debug/CMakeFiles/TP_Sockets.dir
+C:/Users/ayaga/CLionProjects/TP_Sockets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayaga/CLionProjects/TP_Sockets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
